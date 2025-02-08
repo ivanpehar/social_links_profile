@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Social Links Profile Screenshot](./assets/images/screenshot.jpe)
+![Social Links Profile Screenshot](./assets/images/screenshot.jpeg)
 
 ---
 
